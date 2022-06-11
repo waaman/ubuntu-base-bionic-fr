@@ -1,2 +1,4 @@
 # ubuntu-base-bionic-fr
-Image Docker de Ubuntu Bionic avec language et dépôts en FR.
+Docker Image de base de Ubuntu Bionic avec language et dépôts FR.
+
+Base OS pour création de containers Docker.
